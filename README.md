@@ -10,3 +10,4 @@ In the folder you have some files like:
 - `pages/_app.js`: the configuration with Storyblok API;
 - `pages/index.js`: the initialization of the Storyblok Bridge.
 
+.
