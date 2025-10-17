@@ -12,6 +12,7 @@
   left: 0;
   width: 1728px;
   height: 564px;
+  z-index: 1;
 }
 
 .ecovium-design-by .rectangle {
@@ -33,6 +34,7 @@
   font-size: 48px;
   letter-spacing: 0;
   line-height: normal;
+  z-index: 10;
 }
 
 .ecovium-design-by .ecovium-s-integrated {
@@ -1661,6 +1663,7 @@
   left: 0;
   width: 1728px;
   height: 564px;
+  z-index: 1;
 }
 
 .ecovium-design-by .rectangle {
@@ -1682,6 +1685,7 @@
   font-size: 48px;
   letter-spacing: 0;
   line-height: normal;
+  z-index: 10;
 }
 
 .ecovium-design-by .ecovium-s-integrated {
