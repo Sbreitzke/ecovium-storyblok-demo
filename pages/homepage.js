@@ -26,7 +26,7 @@ export default function Homepage() {
           <source src="/WEB_BG_Home_Corporate_1.mp4" type="video/mp4" />
         </video>
         <div className="ls-build-smarter"></div>
-        <img className="rectangle" src="https://c.animaapp.com/hZJG2TsC/img/rectangle-34624499.svg" />
+        <img className="rectangle" src="/img/rectangle-34624499.svg" />
         <div className="simple-chain-all-in">Simple Chain all-in-one<br />logistics solution</div>
         <p className="ecovium-s-integrated">
           Ecovium's integrated logistics solutions are developed by a team of logistics IT experts from various areas
@@ -38,36 +38,36 @@ export default function Homepage() {
         <div className="text-wrapper-2">We deliver success</div>
         <img
           className="icon-stroke-arrows"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke---arrows---arrow-right---forward-1.svg"
+          src="/img/icon---stroke---arrows---arrow-right---forward-1.svg"
         />
-        <img className="img" src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke---arrows---arrow-right---forward-1.svg" />
+        <img className="img" src="/img/icon---stroke---arrows---arrow-right---forward-1.svg" />
         <div className="group">
-          <img className="image" src="https://c.animaapp.com/hZJG2TsC/img/image-1961@2x.png" />
+          <img className="image" src="/img/image-1961@2x.png" />
           <div className="rectangle-3"></div>
           <div className="text-wrapper-3">MERCEDES</div>
           <p className="ensuring-the">Ensuring the integrity of DHLs<br />warehouse</p>
-          <div className="vector-wrapper"><img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-3.svg" /></div>
+          <div className="vector-wrapper"><img className="vector" src="/img/vector-3.svg" /></div>
         </div>
         <div className="group-2">
-          <img className="image" src="https://c.animaapp.com/hZJG2TsC/img/image-1960@2x.png" />
+          <img className="image" src="/img/image-1960@2x.png" />
           <div className="rectangle-4"></div>
           <div className="text-wrapper-4">BENUTA</div>
           <p className="p">Ensuring the integrity of DHLs<br />warehouse</p>
-          <div className="vector-wrapper"><img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-1.svg" /></div>
+          <div className="vector-wrapper"><img className="vector" src="/img/vector-1.svg" /></div>
         </div>
         <div className="group-3">
-          <img className="image" src="https://c.animaapp.com/hZJG2TsC/img/image-1959@2x.png" />
+          <img className="image" src="/img/image-1959@2x.png" />
           <div className="rectangle-3"></div>
           <div className="text-wrapper-5">DHL</div>
           <p className="ensuring-the-2">Ensuring the integrity of DHLs<br />warehouse</p>
-          <div className="img-wrapper"><img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-2.svg" /></div>
+          <div className="img-wrapper"><img className="vector" src="/img/vector-2.svg" /></div>
         </div>
         <div className="group-4">
-          <img className="image" src="https://c.animaapp.com/hZJG2TsC/img/image-1962@2x.png" />
+          <img className="image" src="/img/image-1962@2x.png" />
           <div className="rectangle-3"></div>
           <div className="text-wrapper-6">COFFE</div>
           <p className="ensuring-the">Ensuring the integrity of DHLs<br />warehouse</p>
-          <div className="vector-wrapper"><img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-3.svg" /></div>
+          <div className="vector-wrapper"><img className="vector" src="/img/vector-3.svg" /></div>
         </div>
         <div className="text-wrapper-7">Shipping</div>
         <div className="text-wrapper-8">Warehouse</div>
@@ -85,20 +85,20 @@ export default function Homepage() {
         <div className="text-wrapper-13">About us more info</div>
         <div className="text-wrapper-14">Hardware</div>
         <div className="text-wrapper-15">Business Intelligence</div>
-        <img className="image-2" src="https://c.animaapp.com/hZJG2TsC/img/image-1894@2x.png" />
-        <img className="image-3" src="https://c.animaapp.com/hZJG2TsC/img/image-1892@2x.png" />
-        <img className="image-4" src="https://c.animaapp.com/hZJG2TsC/img/image-1893@2x.png" />
-        <img className="image-5" src="https://c.animaapp.com/hZJG2TsC/img/image-1895@2x.png" />
-        <img className="image-6" src="https://c.animaapp.com/hZJG2TsC/img/image-1896@2x.png" />
-        <img className="image-7" src="https://c.animaapp.com/hZJG2TsC/img/image-1902@2x.png" />
-        <img className="line" src="https://c.animaapp.com/hZJG2TsC/img/line-954.svg" />
-        <img className="line-2" src="https://c.animaapp.com/hZJG2TsC/img/line-954.svg" />
-        <img className="line-3" src="https://c.animaapp.com/hZJG2TsC/img/line-954.svg" />
-        <img className="line-4" src="https://c.animaapp.com/hZJG2TsC/img/line-954.svg" />
-        <img className="line-5" src="https://c.animaapp.com/hZJG2TsC/img/line-955.svg" />
-        <img className="line-6" src="https://c.animaapp.com/hZJG2TsC/img/line-951.svg" />
+        <img className="image-2" src="/img/image-1894@2x.png" />
+        <img className="image-3" src="/img/image-1892@2x.png" />
+        <img className="image-4" src="/img/image-1893@2x.png" />
+        <img className="image-5" src="/img/image-1895@2x.png" />
+        <img className="image-6" src="/img/image-1896@2x.png" />
+        <img className="image-7" src="/img/image-1902@2x.png" />
+        <img className="line" src="/img/line-954.svg" />
+        <img className="line-2" src="/img/line-954.svg" />
+        <img className="line-3" src="/img/line-954.svg" />
+        <img className="line-4" src="/img/line-954.svg" />
+        <img className="line-5" src="/img/line-955.svg" />
+        <img className="line-6" src="/img/line-951.svg" />
         <div className="text-wrapper-16">Smooth customs clearance</div>
-        <img className="image-8" src="https://c.animaapp.com/hZJG2TsC/img/image-1963.png" />
+        <img className="image-8" src="/img/image-1963.png" />
         <div className="text-wrapper-17">Home page</div>
         <div className="text-wrapper-18">Contact form</div>
         <div className="text-wrapper-19">Industries</div>
@@ -110,75 +110,75 @@ export default function Homepage() {
         <div className="text-wrapper-25">Products</div>
         <div className="text-wrapper-26">Chat with us</div>
         <div className="text-wrapper-27">Who We Are</div>
-        <img className="line-7" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-8" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-9" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-10" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-11" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-12" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-13" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
-        <img className="line-14" src="https://c.animaapp.com/hZJG2TsC/img/line-959.svg" />
+        <img className="line-7" src="/img/line-959.svg" />
+        <img className="line-8" src="/img/line-959.svg" />
+        <img className="line-9" src="/img/line-959.svg" />
+        <img className="line-10" src="/img/line-959.svg" />
+        <img className="line-11" src="/img/line-959.svg" />
+        <img className="line-12" src="/img/line-959.svg" />
+        <img className="line-13" src="/img/line-959.svg" />
+        <img className="line-14" src="/img/line-959.svg" />
         <img
           className="icon-stroke-arrows-2"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke---arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke---arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-3"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-4"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-5"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-6"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-7"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-8"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-9"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-10"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-11"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-12"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-10.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-10.svg"
         />
         <img
           className="icon-stroke-arrows-5"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <img
           className="icon-stroke-arrows-8"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke-arrows---chevron-small-right-12.svg"
+          src="/img/icon---stroke-arrows---chevron-small-right-12.svg"
         />
         <div className="text-wrapper-28">Main pages</div>
         <div className="text-wrapper-29">Contact us</div>
         <div className="text-wrapper-30">Language</div>
-        <img className="ecovium-logo-r-blue" src="https://c.animaapp.com/hZJG2TsC/img/ecovium-logo--r--blue-8@2x.png" />
-        <img className="brand-icon" src="https://c.animaapp.com/hZJG2TsC/img/brand---icon.svg" />
-        <img className="brand-icon-2" src="https://c.animaapp.com/hZJG2TsC/img/brand---icon-1.svg" />
-        <img className="brand-icon-3" src="https://c.animaapp.com/hZJG2TsC/img/brand---icon-2.svg" />
-        <img className="brand-icon-4" src="https://c.animaapp.com/hZJG2TsC/img/brand---icon-3.svg" />
-        <img className="brand-icon-5" src="https://c.animaapp.com/hZJG2TsC/img/brand---icon-4.svg" />
+        <img className="ecovium-logo-r-blue" src="/img/ecovium-logo--r--blue-8@2x.png" />
+        <img className="brand-icon" src="/img/brand---icon.svg" />
+        <img className="brand-icon-2" src="/img/brand---icon-1.svg" />
+        <img className="brand-icon-3" src="/img/brand---icon-2.svg" />
+        <img className="brand-icon-4" src="/img/brand---icon-3.svg" />
+        <img className="brand-icon-5" src="/img/brand---icon-4.svg" />
         <div className="ellipse"></div>
         <div className="ellipse-2"></div>
         <div className="ellipse-3"></div>
@@ -213,7 +213,7 @@ export default function Homepage() {
             Connect with a real ecovium expert via email, chat, or phone support in less than a minute.
           </p>
           <div className="icon-stroke-arrows-13">
-            <img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-5.svg" />
+            <img className="vector" src="/img/vector-5.svg" />
           </div>
         </div>
         <div className="group-6">
@@ -224,7 +224,7 @@ export default function Homepage() {
             as well as a range of hardware like you around the world.
           </p>
           <div className="icon-stroke-arrows-13">
-            <img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-5.svg" />
+            <img className="vector" src="/img/vector-5.svg" />
           </div>
         </div>
         <div className="group-7">
@@ -234,7 +234,7 @@ export default function Homepage() {
             Connect to 200+ out-of-the-box integrations you already use and love in the Ecovium Carrier API.
           </p>
           <div className="icon-stroke-arrows-13">
-            <img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-7.svg" />
+            <img className="vector" src="/img/vector-7.svg" />
           </div>
         </div>
         <div className="group-8">
@@ -244,7 +244,7 @@ export default function Homepage() {
             Learn anywhere, anytime with free self-paced, online training courses and role-based certifications.
           </p>
           <div className="icon-stroke-arrows-13">
-            <img className="vector" src="https://c.animaapp.com/hZJG2TsC/img/vector-7.svg" />
+            <img className="vector" src="/img/vector-7.svg" />
           </div>
         </div>
         <p className="text-wrapper-38">
@@ -258,51 +258,51 @@ export default function Homepage() {
         <div className="country-flag-DE-wrapper"><div className="country-flag-DE"></div></div>
         <div className="rectangle-9"></div>
         <p className="text-wrapper-39">End-to-end logistics solutions from a single source</p>
-        <img className="vector-2" src="https://c.animaapp.com/hZJG2TsC/img/vector-8.svg" />
+        <img className="vector-2" src="/img/vector-8.svg" />
         <div className="text-wrapper-40">Patrick Wallinger</div>
         <div className="rectangle-10"></div>
-        <img className="ecovium-logo-r-blue-2" src="https://c.animaapp.com/hZJG2TsC/img/ecovium-logo--r--blue-8-1@2x.png" />
+        <img className="ecovium-logo-r-blue-2" src="/img/ecovium-logo--r--blue-8-1@2x.png" />
         <img
           className="ls-build-smarter-2"
-          src="https://c.animaapp.com/hZJG2TsC/img/ls-build-smarter-supply-chains-4@2x.png"
+          src="/img/ls-build-smarter-supply-chains-4@2x.png"
         />
-        <img className="rectangle-11" src="https://c.animaapp.com/hZJG2TsC/img/rectangle-34624506.svg" />
+        <img className="rectangle-11" src="/img/rectangle-34624506.svg" />
         <p className="build-a-more">
           Build a more resilient business with integrated<br />logistics solutions from a single source.
         </p>
         <div className="rectangle-12"></div>
         <img
           className="icon-stroke-arrows-14"
-          src="https://c.animaapp.com/hZJG2TsC/img/icon---stroke---arrows---arrow-right---forward-2.svg"
+          src="/img/icon---stroke---arrows---arrow-right---forward-2.svg"
         />
         <div className="div-wrapper"><div className="text-wrapper-41">Book Free Demo</div></div>
         <div className="text-wrapper-42">Learn More</div>
         <div className="rectangle-13"></div>
-        <img className="chat-comment-alt" src="https://c.animaapp.com/hZJG2TsC/img/chat---comment-alt-lines.svg" />
+        <img className="chat-comment-alt" src="/img/chat---comment-alt-lines.svg" />
         <div className="rectangle-14"></div>
-        <img className="image-9" src="https://c.animaapp.com/hZJG2TsC/img/image-1965.png" />
+        <img className="image-9" src="/img/image-1965.png" />
         <div className="group-9">
           <div className="group-10">
-            <img className="rectangle-15" src="https://c.animaapp.com/hZJG2TsC/img/rectangle-34624304.svg" />
-            <img className="ecovium-logo-r-blue-3" src="https://c.animaapp.com/hZJG2TsC/img/ecovium-logo--r--blue-7@2x.png" />
+            <img className="rectangle-15" src="/img/rectangle-34624304.svg" />
+            <img className="ecovium-logo-r-blue-3" src="/img/ecovium-logo--r--blue-7@2x.png" />
             <div className="header-bottom"></div>
             <div className="rectangle-16"></div>
             <div className="group-11"><div className="text-wrapper-43">Request Demo</div></div>
             <div className="group-12">
-              <img className="vector-3" src="https://c.animaapp.com/hZJG2TsC/img/vector-9.svg" />
+              <img className="vector-3" src="/img/vector-9.svg" />
               <div className="text-wrapper-44">EN</div>
             </div>
-            <img className="search" src="https://c.animaapp.com/hZJG2TsC/img/search@2x.png" />
+            <img className="search" src="/img/search@2x.png" />
           </div>
           <div className="navbar">
             <div className="text-wrapper-45">Product</div>
-            <img className="chevron-down" src="https://c.animaapp.com/hZJG2TsC/img/chevron-down-3.svg" />
+            <img className="chevron-down" src="/img/chevron-down-3.svg" />
             <div className="text-wrapper-46">Industries</div>
-            <img className="chevron-down" src="https://c.animaapp.com/hZJG2TsC/img/chevron-down-3.svg" />
+            <img className="chevron-down" src="/img/chevron-down-3.svg" />
             <div className="text-wrapper-47">Resources</div>
-            <img className="chevron-down" src="https://c.animaapp.com/hZJG2TsC/img/chevron-down-3.svg" />
+            <img className="chevron-down" src="/img/chevron-down-3.svg" />
             <div className="text-wrapper-48">Who We Are</div>
-            <img className="chevron-down" src="https://c.animaapp.com/hZJG2TsC/img/chevron-down-3.svg" />
+            <img className="chevron-down" src="/img/chevron-down-3.svg" />
           </div>
         </div>
       </div>
