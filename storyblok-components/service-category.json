@@ -1,0 +1,30 @@
+{
+  "name": "service_category",
+  "display_name": "Service Category",
+  "is_root": false,
+  "is_nestable": true,
+  "schema": {
+    "title": {
+      "type": "text",
+      "translatable": true,
+      "description": "Category title (e.g., Shipping, Warehouse, Customs, Transport)",
+      "required": true
+    },
+    "description": {
+      "type": "textarea",
+      "translatable": true,
+      "description": "Short description of the service category",
+      "required": true
+    },
+    "details": {
+      "type": "richtext",
+      "translatable": true,
+      "description": "Detailed information about services offered"
+    },
+    "icon_name": {
+      "type": "text",
+      "translatable": false,
+      "description": "Icon identifier for this category"
+    }
+  }
+}

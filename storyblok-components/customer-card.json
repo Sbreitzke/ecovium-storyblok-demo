@@ -1,0 +1,38 @@
+{
+  "name": "customer_card",
+  "display_name": "Customer Success Card",
+  "is_root": false,
+  "is_nestable": true,
+  "schema": {
+    "image": {
+      "type": "asset",
+      "translatable": false,
+      "description": "Customer/company image",
+      "filetypes": ["images"],
+      "required": true
+    },
+    "company_name": {
+      "type": "text",
+      "translatable": false,
+      "description": "Company name (e.g., MERCEDES, BENUTA)",
+      "required": true
+    },
+    "title": {
+      "type": "text",
+      "translatable": true,
+      "description": "Card title",
+      "required": true
+    },
+    "description": {
+      "type": "textarea",
+      "translatable": true,
+      "description": "Card description",
+      "required": true
+    },
+    "link": {
+      "type": "text",
+      "translatable": true,
+      "description": "Link to case study or more info"
+    }
+  }
+}

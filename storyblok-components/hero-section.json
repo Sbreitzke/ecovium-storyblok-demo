@@ -1,0 +1,46 @@
+{
+  "name": "hero_section",
+  "display_name": "Hero Section",
+  "is_root": false,
+  "is_nestable": true,
+  "schema": {
+    "headline": {
+      "type": "text",
+      "translatable": true,
+      "description": "Main headline for hero section",
+      "required": true
+    },
+    "subtext": {
+      "type": "textarea",
+      "translatable": true,
+      "description": "Supporting text below headline",
+      "required": true
+    },
+    "video_url": {
+      "type": "asset",
+      "translatable": false,
+      "description": "Background video",
+      "filetypes": ["videos"]
+    },
+    "cta_primary_text": {
+      "type": "text",
+      "translatable": true,
+      "description": "Primary CTA button text"
+    },
+    "cta_primary_link": {
+      "type": "text",
+      "translatable": true,
+      "description": "Primary CTA button link"
+    },
+    "cta_secondary_text": {
+      "type": "text",
+      "translatable": true,
+      "description": "Secondary CTA button text"
+    },
+    "cta_secondary_link": {
+      "type": "text",
+      "translatable": true,
+      "description": "Secondary CTA button link"
+    }
+  }
+}
