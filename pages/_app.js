@@ -1,5 +1,6 @@
 import "../styles/globals.css";
-import "../styles/homepage.css";
+import "../styles/styleguide.css";
+import "../styles/hp-design.css";
 import { storyblokInit, apiPlugin } from "@storyblok/react";
 import Feature from "../components/Feature";
 import Grid from "../components/Grid";
