@@ -305,10 +305,6 @@ export default function Homepage() {
           <path d="M16 2C8.3 2 2 7.6 2 14.5c0 3.4 1.5 6.5 4 8.7V30l6.3-3.5c1.2.3 2.4.5 3.7.5 7.7 0 14-5.6 14-12.5S23.7 2 16 2z"/>
         </svg>
       </button>
-
-      <style jsx global>{`
-        @import url('/hp-spike-styles.css');
-      `}</style>
     </>
   );
 }
