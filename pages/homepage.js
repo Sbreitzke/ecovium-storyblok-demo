@@ -8,7 +8,23 @@ export default function Homepage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <div className="ecovium-design-by" data-model-id="67:91">
-        <div className="ls-build-smarter"></div>
+        <div className="ls-build-smarter">
+          <video
+            autoPlay
+            loop
+            muted
+            playsInline
+            style={{
+              position: 'absolute',
+              width: '100%',
+              height: '100%',
+              objectFit: 'cover',
+              zIndex: -1
+            }}
+          >
+            <source src="/WEB_BG_Home_Corporate_1.mp4" type="video/mp4" />
+          </video>
+        </div>
         <img className="rectangle" src="https://c.animaapp.com/hZJG2TsC/img/rectangle-34624499.svg" />
         <div className="simple-chain-all-in">Simple Chain all-in-one<br />logistics solution</div>
         <p className="ecovium-s-integrated">
